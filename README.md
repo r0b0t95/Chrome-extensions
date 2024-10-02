@@ -1,6 +1,6 @@
 # Robert Chaves P. (r0b0t95)
 
-### Simple To-Do List v.1
+### ---------- Simple To-Do List v.1 ----------
 
 #### Simple To-Do List Demo
 ![[extension1.jpg]](Simple_To-Do_List/extension1.jpg)
